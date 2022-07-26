@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Task Tracker
+
+This is a fun little task tracking application built with React, following a [tutorial from Traversy Media on YouTube](https://www.youtube.com/watch?v=w7ejDZ8SWv8).
+
 ## Available Scripts
 
 In the project directory, you can run:
